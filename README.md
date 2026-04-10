@@ -1,3 +1,5 @@
+![Logisim](https://img.shields.io/badge/Logisim-Circuitos%20Digitais-blue)
+
 # 🧠 Trabalho de Lógica Digital – Logisim
 
 ## 👨‍🎓 Integrantes

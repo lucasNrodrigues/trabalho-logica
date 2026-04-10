@@ -16,7 +16,6 @@ Este repositório contém a resolução das questões propostas na disciplina de
 - Logisim
 - GitHub
 - Lógica Booleana
-- Mapas de Karnaugh
 
 ---
 

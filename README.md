@@ -26,7 +26,6 @@ Este repositório contém a resolução das questões propostas na disciplina de
 ├── trabalhologico.circ
 └── README.md
 
-
 ---
 
 ## 📌 Observação
@@ -34,15 +33,6 @@ Este repositório contém a resolução das questões propostas na disciplina de
 Todas as questões foram implementadas em um único arquivo do Logisim (`trabalhologico.circ`), contendo os circuitos organizados internamente por questão.
 
 ---
-
----
-
-## 🔹 Implementação
-
-- 1 porta XOR  
-- 1 porta NOT  
-- 2 portas AND  
-- 1 constante lógica (1)  
 
 ---
 
